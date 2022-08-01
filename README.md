@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshurawlani&label=Profile%20views&color=0e75b6&style=flat" alt="himanshurawlani" /> </p>
 
-- 🔭 I’m a Graduate Student at University of Southern California
+- 🔭 I’m a Graduate Student at University of Southern California (USC)
 
 - 🌱 I’m currently pursuing Master of Science in Computer Science (MSCS)
 
