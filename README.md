@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshurawlani&label=Profile%20views&color=0e75b6&style=flat" alt="himanshurawlani" /> </p>
 
-- 🔭 I’m currently working at **Digitate**
+- 🔭 I’m a Graduate Student at University of Southern California
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently pursuing Master of Science in Computer Science (MSCS)
 
-- 💬 Ask me about **Machine Learning, Deep Learning in NLP and Image domain**
+- 💼 I am a Machine Learning Engineer with 3.7 years of production work experience
+
+- 💬 Ask me about **Machine Learning and Deep Learning in NLP and Image domain**
 
 - 📫 How to reach me **himanshurawlani@hotmail.com**
 
