@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">I am a Machine Learning Engineer</h3>
 <h4 align="center">Website: https://himanshurawlani.github.io</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshurawlani&label=Profile%20views&color=0e75b6&style=flat" alt="himanshurawlani" /> </p>
 
-- 🔭 I’m a Graduate Student at University of Southern California (USC)
+- 🔭 I am currently working as a Software Dev Engineer at Amazon
 
-- 🌱 I’m currently pursuing Master of Science in Computer Science (MSCS)
+- 🌱 I graduated from University of Southern California (USC) with a Master of Science in Computer Science (MSCS) degree
 
-- 💼 I am a Machine Learning Engineer with 3.7 years of production work experience
+- 💼 Previously, I worked as a Machine Learning Engineer for about 4 years
 
 - 💬 Ask me about **Machine Learning and Deep Learning in NLP and Image domain**
 
